@@ -10,7 +10,7 @@ const Footer = () => {
         <img src={Logo} alt="logo" width="200px" height="40px" />
         <Typography>React Project</Typography>
           <Typography variant="h5" pb="40px" mt="10px">
-            Muscle Trainer By Enigma
+            Muscle Trainer BY Enigma
           </Typography>
       </Stack>
     </Box>
